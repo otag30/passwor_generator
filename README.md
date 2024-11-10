@@ -1,1 +1,3 @@
-# passwor_generator
+# Password Generator! 
+
+![image.jpeg](image.jpeg)
